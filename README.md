@@ -2,12 +2,6 @@
 # Nome: Henrique Kandler dos Santos
 ---
 
-# Como usar
-
-Abra cada uma das pastas separadamente no Visual Studio Code, ou sua IDE/plataforma de preferência e siga as instruções abaixo:
-
----
-
 ## Pasta **API (Back-End)**
 
 ### 1. Configuração Inicial
